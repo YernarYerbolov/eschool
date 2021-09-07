@@ -1,6 +1,6 @@
 Чтобы скачать с гитхаба проект запускаем команду:
 ```
-git clone https://github.com/unitemir/eschool.git
+git clone https://github.com/YernarYerbolov/eschool.git
 ```
 Дальше заходим в папку eschool:
 ```
@@ -12,7 +12,7 @@ mvnw spring-boot:run
 ```
 После запуска сервера, скачиваем фронт командой: 
 ```
-git https://github.com/unitemir/eschoolapp
+git https://github.com/YernarYerbolov/eschoolapp
 ```
 Дальше заходим в папку eschool:
 ```
